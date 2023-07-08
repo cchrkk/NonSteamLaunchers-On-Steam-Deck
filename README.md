@@ -51,6 +51,7 @@ Supported Streaming Sites 🌐
 <h1 align="left">
 Find Games
 </h1>
+
 Use the "Find Games" button to load [Boilr](https://github.com/PhilipK/BoilR) this will open Boilr for you to set your settings so you can find your games easier.
 
 <h1 align="center">
